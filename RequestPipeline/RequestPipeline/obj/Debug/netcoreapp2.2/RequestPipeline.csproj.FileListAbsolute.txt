@@ -1,0 +1,16 @@
+E:\netcore\RequestPipeline\RequestPipeline\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\netcore\RequestPipeline\RequestPipeline\bin\Debug\netcoreapp2.2\appsettings.json
+E:\netcore\RequestPipeline\RequestPipeline\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\netcore\RequestPipeline\RequestPipeline\bin\Debug\netcoreapp2.2\RequestPipeline.deps.json
+E:\netcore\RequestPipeline\RequestPipeline\bin\Debug\netcoreapp2.2\RequestPipeline.runtimeconfig.json
+E:\netcore\RequestPipeline\RequestPipeline\bin\Debug\netcoreapp2.2\RequestPipeline.runtimeconfig.dev.json
+E:\netcore\RequestPipeline\RequestPipeline\bin\Debug\netcoreapp2.2\RequestPipeline.dll
+E:\netcore\RequestPipeline\RequestPipeline\bin\Debug\netcoreapp2.2\RequestPipeline.pdb
+E:\netcore\RequestPipeline\RequestPipeline\obj\Debug\netcoreapp2.2\RequestPipeline.csprojAssemblyReference.cache
+E:\netcore\RequestPipeline\RequestPipeline\obj\Debug\netcoreapp2.2\RequestPipeline.RazorAssemblyInfo.cache
+E:\netcore\RequestPipeline\RequestPipeline\obj\Debug\netcoreapp2.2\RequestPipeline.RazorAssemblyInfo.cs
+E:\netcore\RequestPipeline\RequestPipeline\obj\Debug\netcoreapp2.2\RequestPipeline.AssemblyInfoInputs.cache
+E:\netcore\RequestPipeline\RequestPipeline\obj\Debug\netcoreapp2.2\RequestPipeline.AssemblyInfo.cs
+E:\netcore\RequestPipeline\RequestPipeline\obj\Debug\netcoreapp2.2\RequestPipeline.RazorTargetAssemblyInfo.cache
+E:\netcore\RequestPipeline\RequestPipeline\obj\Debug\netcoreapp2.2\RequestPipeline.dll
+E:\netcore\RequestPipeline\RequestPipeline\obj\Debug\netcoreapp2.2\RequestPipeline.pdb
