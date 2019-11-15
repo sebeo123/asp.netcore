@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\ConfigurationSample.deps.json
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\ConfigurationSample.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\ConfigurationSample.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\ConfigurationSample.dll
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\ConfigurationSample.pdb
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\obj\Debug\netcoreapp2.2\ConfigurationSample.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\obj\Debug\netcoreapp2.2\ConfigurationSample.RazorAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\obj\Debug\netcoreapp2.2\ConfigurationSample.RazorAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\obj\Debug\netcoreapp2.2\ConfigurationSample.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\obj\Debug\netcoreapp2.2\ConfigurationSample.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\obj\Debug\netcoreapp2.2\ConfigurationSample.RazorTargetAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\obj\Debug\netcoreapp2.2\ConfigurationSample.dll
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\obj\Debug\netcoreapp2.2\ConfigurationSample.pdb
+C:\Users\ADMIN\source\repos\ConfigurationSample\ConfigurationSample\bin\Debug\netcoreapp2.2\appsettings.Production.json
