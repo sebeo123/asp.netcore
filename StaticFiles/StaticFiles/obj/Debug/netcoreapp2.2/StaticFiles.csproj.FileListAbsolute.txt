@@ -1,0 +1,16 @@
+E:\netcore\StaticFiles\StaticFiles\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\netcore\StaticFiles\StaticFiles\bin\Debug\netcoreapp2.2\appsettings.json
+E:\netcore\StaticFiles\StaticFiles\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\netcore\StaticFiles\StaticFiles\bin\Debug\netcoreapp2.2\StaticFiles.deps.json
+E:\netcore\StaticFiles\StaticFiles\bin\Debug\netcoreapp2.2\StaticFiles.runtimeconfig.json
+E:\netcore\StaticFiles\StaticFiles\bin\Debug\netcoreapp2.2\StaticFiles.runtimeconfig.dev.json
+E:\netcore\StaticFiles\StaticFiles\bin\Debug\netcoreapp2.2\StaticFiles.dll
+E:\netcore\StaticFiles\StaticFiles\bin\Debug\netcoreapp2.2\StaticFiles.pdb
+E:\netcore\StaticFiles\StaticFiles\obj\Debug\netcoreapp2.2\StaticFiles.csprojAssemblyReference.cache
+E:\netcore\StaticFiles\StaticFiles\obj\Debug\netcoreapp2.2\StaticFiles.RazorAssemblyInfo.cache
+E:\netcore\StaticFiles\StaticFiles\obj\Debug\netcoreapp2.2\StaticFiles.RazorAssemblyInfo.cs
+E:\netcore\StaticFiles\StaticFiles\obj\Debug\netcoreapp2.2\StaticFiles.AssemblyInfoInputs.cache
+E:\netcore\StaticFiles\StaticFiles\obj\Debug\netcoreapp2.2\StaticFiles.AssemblyInfo.cs
+E:\netcore\StaticFiles\StaticFiles\obj\Debug\netcoreapp2.2\StaticFiles.RazorTargetAssemblyInfo.cache
+E:\netcore\StaticFiles\StaticFiles\obj\Debug\netcoreapp2.2\StaticFiles.dll
+E:\netcore\StaticFiles\StaticFiles\obj\Debug\netcoreapp2.2\StaticFiles.pdb
