@@ -1,4 +1,4 @@
-﻿@model MVCCoreApp.Models.IndexModel
+﻿
 @{
     Layout = null;
 }
@@ -9,9 +9,11 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Index</title>
-    
 </head>
 <body>
-    <p>@Model.Message</p>
+@*@{
+    string endcodedMessage = "<script>alert('day la dong code thu alert');</script>";
+}
+<span>@Html.Raw(endcodedMessage)</span>*@
 </body>
 </html>

@@ -19,7 +19,10 @@ E:\netcore\MVCCoreApp\MVCCoreApp\bin\Debug\netcoreapp2.2\MVCCoreApp.Views.pdb
 E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\MVCCoreApp.TagHelpers.input.cache
 E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\MVCCoreApp.TagHelpers.output.cache
 E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\MVCCoreApp.RazorCoreGenerate.cache
-E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
 E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\MVCCoreApp.RazorTargetAssemblyInfo.cs
 E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\MVCCoreApp.Views.pdb
 E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\MVCCoreApp.csproj.CopyComplete
+E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Index.cshtml.g.cs
+E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layouts.cshtml.g.cs
+E:\netcore\MVCCoreApp\MVCCoreApp\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.cshtml.g.cs
