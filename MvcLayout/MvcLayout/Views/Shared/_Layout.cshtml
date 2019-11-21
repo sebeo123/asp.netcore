@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    @RenderSection("Header", required: false)
+</head>
+<body>
+    <div id="header">
+        <h1>layout example in HTML</h1>
+    </div>
+    <div id="content">
+        @RenderBody()
+    </div>
+    <div id="footer">
+        <p>this is footer</p>
+    </div>
+    @RenderSection("Footer", required: false)
+</body>
+</html>
