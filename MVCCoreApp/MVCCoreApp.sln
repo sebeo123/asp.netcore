@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCCoreApp", "MVCCoreApp\MVCCoreApp.csproj", "{24A1DC60-E217-4131-9EAE-933279DAB221}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassingData", "PassingData\PassingData.csproj", "{472FFDFE-7A94-4234-A75C-13E3735CE338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPNetCoreForm", "ASPNetCoreForm\ASPNetCoreForm.csproj", "{26013CE5-A2C7-4C0A-9BB0-B519D33D3A22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{24A1DC60-E217-4131-9EAE-933279DAB221}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A1DC60-E217-4131-9EAE-933279DAB221}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A1DC60-E217-4131-9EAE-933279DAB221}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472FFDFE-7A94-4234-A75C-13E3735CE338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472FFDFE-7A94-4234-A75C-13E3735CE338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472FFDFE-7A94-4234-A75C-13E3735CE338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472FFDFE-7A94-4234-A75C-13E3735CE338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26013CE5-A2C7-4C0A-9BB0-B519D33D3A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26013CE5-A2C7-4C0A-9BB0-B519D33D3A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26013CE5-A2C7-4C0A-9BB0-B519D33D3A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26013CE5-A2C7-4C0A-9BB0-B519D33D3A22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

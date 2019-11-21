@@ -1,0 +1,33 @@
+﻿@model ASPNetCoreForm.Models.ProductEditModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create</title>
+</head>
+<body>
+    <h2>Create</h2>
+<form asp-action="Create" asp-controller="Home" method="post">
+    <div asp-validation-summary="ModelOnly">
+        <span>Please correct the following errors</span>
+    </div>
+    <label asp-for="Name"></label>
+    <input asp-for="Name" value=""/>
+    <span asp-validation-for="Name"></span>
+
+    <label asp-for="Rate"></label>
+    <input asp-for="Rate" asp-format="{0:N0}" value=""/>
+
+    <label asp-for="Rating"></label>
+    <input asp-for="Rating" value=""/>
+
+    <input type="submit" name="submit" value=""/>
+</form>
+</body>
+</html>
